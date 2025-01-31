@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1738324115 source:f:\my work\company\errasost round 1\school management system\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1738081631 f:\my work\company\errasost round 1\school management system\include\person.h
+	<iostream>
+
+1738324658 source:f:\my work\company\errasost round 1\school management system\src\student.cpp
+	"Student.h"
+	<Person.h>
+	<iostream>
+
+1738081522 f:\my work\company\errasost round 1\school management system\include\student.h
+	<Person.h>
+
+1738324777 source:f:\my work\company\errasost round 1\school management system\main.cpp
+	<Person.h>
+	<Student.h>
+	<School.h>
+	<iostream>
+
+1738312119 source:f:\my work\company\errasost round 1\school management system\src\teacher.cpp
+	"Teacher.h"
+	<Person.h>
+	<iostream>
+
+1738312382 f:\my work\company\errasost round 1\school management system\include\teacher.h
+	<Person.h>
+	<iostream>
+
+1738312150 source:f:\my work\company\errasost round 1\school management system\src\staff.cpp
+	"Staff.h"
+	<Person.h>
+	<iostream>
+
+1738312160 f:\my work\company\errasost round 1\school management system\include\staff.h
+	<Person.h>
+	<iostream>
+
+1738312341 source:f:\my work\company\errasost round 1\school management system\src\course.cpp
+	"Course.h"
+	<iostream>
+
+1738312341 f:\my work\company\errasost round 1\school management system\include\course.h
+	<iostream>
+
+1738323356 source:f:\my work\company\errasost round 1\school management system\src\classroom.cpp
+	"Classroom.h"
+	<iostream>
+
+1738312875 f:\my work\company\errasost round 1\school management system\include\classroom.h
+
+1738313674 source:f:\my work\company\errasost round 1\school management system\src\exam.cpp
+	"Exam.h"
+
+1738323361 f:\my work\company\errasost round 1\school management system\include\exam.h
+	<iostream>
+
+1738324769 f:\my work\company\errasost round 1\school management system\include\school.h
+	<Student.h>
+	<Teacher.h>
+	<Course.h>
+	<Staff.h>
+	<Classroom.h>
+	<iostream>
+
+1738324769 source:f:\my work\company\errasost round 1\school management system\src\school.cpp
+	"School.h"
+	<iostream>
+
